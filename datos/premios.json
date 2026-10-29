@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre_premio": "Bicicleta",
+    "descripcion": "Bicicleta urbana",
+    "estado": "disponible"
+  },
+  {
+    "id": 2,
+    "nombre_premio": "Audífonos",
+    "descripcion": "Audífonos inalámbricos",
+    "estado": "disponible"
+  },
+  {
+    "id": 3,
+    "nombre_premio": "Gift card",
+    "descripcion": "Tarjeta de regalo",
+    "estado": "entregado"
+  }
+]
